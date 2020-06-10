@@ -698,7 +698,6 @@ textarea {
 
 .content {
   margin-top: var(--navbar-height);
-  /* background-color: #f4f4f8; */
 }
 @media all and (max-width: 56.1875em) {
   .content {

@@ -20,9 +20,10 @@
                 "name": "Jorge Valenzuela"
             },
             "tags": [
+                   "Delincuencia"
             ],
             "date_published": "2020-06-09T13:06:34-05:00",
-            "date_modified": "2020-06-09T13:06:34-05:00"
+            "date_modified": "2020-06-10T11:12:53-05:00"
         },
         {
             "id": "https://avatarpolitico.github.io/blog/muere-hombre-en-una-persecucion.html",
@@ -35,9 +36,11 @@
                 "name": "Jorge Valenzuela"
             },
             "tags": [
+                   "Política",
+                   "Delincuencia"
             ],
             "date_published": "2020-06-09T12:18:03-05:00",
-            "date_modified": "2020-06-09T12:29:45-05:00"
+            "date_modified": "2020-06-10T11:13:00-05:00"
         },
         {
             "id": "https://avatarpolitico.github.io/blog/reciben-descuento-en-tarifa-de-agua-cerca-de-40-mil-capitalinos.html",
@@ -50,9 +53,10 @@
                 "name": "Jorge Valenzuela"
             },
             "tags": [
+                   "Política"
             ],
             "date_published": "2020-06-09T12:16:26-05:00",
-            "date_modified": "2020-06-09T12:16:26-05:00"
+            "date_modified": "2020-06-10T11:13:05-05:00"
         },
         {
             "id": "https://avatarpolitico.github.io/blog/el-arte-es-la-vida-y-la-vida-esta-llena-de-arte.html",

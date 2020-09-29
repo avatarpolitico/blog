@@ -990,7 +990,7 @@ textarea {
   }
 }
 .logo > img {
-  display: block;
+  display: inline-block;
   max-height: calc(var(--navbar-height) - 10px);
   vertical-align: middle;
   width: auto;

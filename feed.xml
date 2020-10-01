@@ -3,12 +3,35 @@
     <title>AVATARES</title>
     <link href="https://avatarpolitico.github.io/blog/feed.xml" rel="self" />
     <link href="https://avatarpolitico.github.io/blog" />
-    <updated>2020-09-29T13:03:07-05:00</updated>
+    <updated>2020-10-01T12:22:33-05:00</updated>
     <author>
         <name>Porfirio</name>
     </author>
     <id>https://avatarpolitico.github.io/blog</id>
 
+    <entry>
+        <title>Hola</title>
+        <author>
+            <name>Porfirio</name>
+        </author>
+        <link href="https://avatarpolitico.github.io/blog/hola.html"/>
+        <id>https://avatarpolitico.github.io/blog/hola.html</id>
+
+        <updated>2020-10-01T12:22:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Hola a todos¿Cómo están?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>Hola a todos</li>
+<li>¿Cómo están?</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>¿Quiénes somos?</title>
         <author>
